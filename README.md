@@ -71,3 +71,4 @@ This dashboard should be considered a **portfolio project only** and **not used 
 📧 **Email**: samuel.ed.lopes@gmail.com  
 🌐 **Documentation**: [Google Sheets](https://docs.google.com/spreadsheets/d/1o3zAfBXPQv48_HN3yCGM5ruFUgMnGfL1E4nDqjjAiHU/edit?usp=sharing)  
 🔗 **LinkedIn**: [linkedin.com/in/samuel-lopes01](https://www.linkedin.com/in/samuel-lopes01/)  
+📊 ![**Power BI Desktop Preview**](https://github.com/sicrept/Contoso-Hub/blob/main/Custumer%20overview.png)
