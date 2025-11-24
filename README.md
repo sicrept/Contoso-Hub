@@ -71,6 +71,6 @@ This dashboard should be considered a **portfolio project only** and **not used 
 📧 **Email**: samuel.ed.lopes@gmail.com  
 🌐 **Documentation**: [Google Sheets](https://docs.google.com/spreadsheets/d/1o3zAfBXPQv48_HN3yCGM5ruFUgMnGfL1E4nDqjjAiHU/edit?usp=sharing)  
 🔗 **LinkedIn**: [linkedin.com/in/samuel-lopes01](https://www.linkedin.com/in/samuel-lopes01/)  
-📊 ![**Power BI Desktop Preview**](https://github.com/sicrept/Contoso-Hub/blob/main/Custumer%20overview.png)
+📊 ![**Power BI Desktop Preview**]([https://github.com/sicrept/Contoso-Hub/blob/main/Custumer%20overview.png](https://github.com/sicrept/Contoso-Hub/blob/main/Animation.gif))
 [![View Power BI Report](https://img.shields.io/badge/PowerBI-View%20Report-yellow)](https://app.powerbi.com/reportEmbed?reportId=0443f2c6-8bc7-4ffa-a753-2bed5b081d54&autoAuth=true&ctid=4fb10201-3a7c-47ea-bc59-ffbb7f5ac521)
 
